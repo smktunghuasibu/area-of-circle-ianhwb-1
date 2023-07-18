@@ -1,3 +1,4 @@
+# Learn how to write function
 # function to read input
 def read_input(): 
 #     pass
