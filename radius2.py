@@ -7,10 +7,10 @@ def read_input():
 
 # function to calculate the area of circle
 def calculate(r):
-    pass
-    #pi = 3.142
-    #area = pi * r ** 2
-    #return area
+#    pass
+    pi = 3.142
+    area = pi * r ** 2
+    return area
 
 # main
 def main():
